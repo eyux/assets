@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>ic_duplicate</title>
+    <desc>Created with Sketch.</desc>
+    <g id="中文版" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_duplicate" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#DEEFFF" x="1" y="1" width="26" height="26"></rect>
+            <polygon id="Path" fill="#285DB3" points="23.97 27 1 27 1 20.03 9 12.03"></polygon>
+            <circle id="Oval" fill="#0072EF" cx="7.5" cy="8.5" r="2.5"></circle>
+            <path d="M27,0 L1,0 C0.44771525,0 0,0.44771525 0,1 L0,27 C0,27.5522847 0.44771525,28 1,28 L27,28 C27.5522847,28 28,27.5522847 28,27 L28,1 C28,0.44771525 27.5522847,0 27,0 Z M26,26 L2,26 L2,2 L26,2 L26,26 Z" id="Shape" fill="#0072EF"></path>
+            <polygon id="Path" fill="#0072EF" points="27 19.03 27 27 1.03 27 12.5 15.53 18 10.03"></polygon>
+            <rect id="Rectangle" fill="#DEEFFF" x="17" y="17" width="26" height="26"></rect>
+            <polygon id="Path" fill="#285DB3" points="39.97 43 17 43 17 36.03 25 28.03"></polygon>
+            <circle id="Oval" fill="#0072EF" cx="23.5" cy="24.5" r="2.5"></circle>
+            <path d="M43,16 L17,16 C16.4477153,16 16,16.4477153 16,17 L16,43 C16,43.5522847 16.4477153,44 17,44 L43,44 C43.5522847,44 44,43.5522847 44,43 L44,17 C44,16.4477153 43.5522847,16 43,16 Z M42,42 L18,42 L18,18 L42,18 L42,42 Z" id="Shape" fill="#0072EF"></path>
+            <polygon id="Path" fill="#0072EF" points="43 35.03 43 43 17.03 43 28.5 31.53 34 26.03"></polygon>
+        </g>
+    </g>
+</svg>

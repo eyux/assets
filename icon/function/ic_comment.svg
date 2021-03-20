@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="41px" viewBox="0 0 50 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>ic_comment</title>
+    <desc>Created with Sketch.</desc>
+    <g id="中文版" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_comment" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#C2DEFF" x="0" y="14" width="36" height="27" rx="3"></rect>
+            <rect id="Rectangle" fill="#73ACFF" x="8" y="23" width="20" height="1"></rect>
+            <rect id="Rectangle" fill="#73ACFF" x="8" y="25" width="17.33" height="1"></rect>
+            <rect id="Rectangle" fill="#73ACFF" x="8" y="27" width="16" height="1"></rect>
+            <rect id="Rectangle" fill="#73ACFF" x="8" y="29" width="16" height="1"></rect>
+            <rect id="Rectangle" fill="#73ACFF" x="8" y="31" width="12" height="1"></rect>
+            <rect id="Rectangle" fill="#0072EF" x="15" y="0" width="35" height="26" rx="3"></rect>
+            <polygon id="Path" fill="#0072EF" points="45 26 45 32 39.04 26"></polygon>
+            <path d="M38,10.93 C37.9985786,11.7254015 37.6693958,12.485054 37.09,13.03 L37,13.1 L36.23,13.86 L32.83,17.18 L32,17.9999989 L31.15,17.18 L27.75,13.86 L27,13.1 L26.91,12.9999989 C26.3306042,12.455054 26.0014214,11.6954015 26,10.9 C26.0539522,9.28232454 27.3814253,7.99910055 29,7.99999887 C29.8044806,7.999309 30.5768734,8.31545114 31.15,8.88 L32,9.71 L32.85,8.88 C33.4231266,8.31545114 34.1955194,7.999309 35,7.99999887 C36.6298981,7.99955625 37.9619691,9.30054559 38,10.93 Z" id="Path" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

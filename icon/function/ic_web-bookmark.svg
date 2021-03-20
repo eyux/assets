@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="41px" viewBox="0 0 28 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>ic_web-bookmark</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_web-bookmark" fill-rule="nonzero">
+            <path d="M28,30 L0,30 L0,3 C0,1.34314575 1.34314575,0 3,0 L25,0 C26.6568542,0 28,1.34314575 28,3 L28,30 Z" id="Path" fill="#0072EF"></path>
+            <path d="M28,30 L14,30 L26.29,40.29 C26.5748091,40.5771614 27.004552,40.6644903 27.3788524,40.5112679 C27.7531528,40.3580455 27.9983042,39.9944441 28,39.59 L28,30 Z" id="Path" fill="#0072EF"></path>
+            <path d="M0,30 L0,39.59 C0.0016957734,39.9944441 0.246847243,40.3580455 0.621147639,40.5112679 C0.995448036,40.6644903 1.42519089,40.5771614 1.71,40.29 L14,30 L0,30 Z" id="Path" fill="#0072EF"></path>
+            <polygon id="Path" fill="#FFFFFF" points="13.88 9.86 15.84 13.86 20.23 14.5 17.05 17.61 17.81 22 13.88 19.93 9.95 22 10.7 17.61 7.52 14.5 11.91 13.86"></polygon>
+        </g>
+    </g>
+</svg>

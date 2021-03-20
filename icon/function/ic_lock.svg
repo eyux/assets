@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="44px" viewBox="0 0 35 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>ic_lock</title>
+    <desc>Created with Sketch.</desc>
+    <g id="中文版" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_lock" fill-rule="nonzero">
+            <path d="M27.37,10 L27.37,20 L22.37,20 L22.37,10 C22.37,7.23857625 20.1314237,5 17.37,5 C14.6085763,5 12.37,7.23857625 12.37,10 L12.37,20 L7.37,20 L7.37,10 C7.37,4.4771525 11.8471525,0 17.37,0 C22.8928475,0 27.37,4.4771525 27.37,10 Z" id="Path" fill="#285DB3"></path>
+            <rect id="Rectangle" fill="#0072EF" x="0" y="15.05" width="34.74" height="28.95" rx="3"></rect>
+            <circle id="Oval" fill="#FFFFFF" cx="17.37" cy="28" r="3"></circle>
+            <rect id="Rectangle" fill="#FFFFFF" x="16.37" y="30" width="2" height="4"></rect>
+        </g>
+    </g>
+</svg>

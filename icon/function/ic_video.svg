@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="37px" viewBox="0 0 44 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>ic_video</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="知識庫圖標改版" transform="translate(-266.000000, -628.000000)" fill-rule="nonzero">
+            <g id="ic_video" transform="translate(266.000000, 628.000000)">
+                <rect id="矩形" fill="#0072EF" x="0" y="3" width="44" height="34" rx="3"></rect>
+                <path d="M27.3905248,20.8778956 L19.4788521,25.1933534 C18.9940038,25.4578161 18.3865672,25.2791583 18.1221044,24.7943099 C18.0419834,24.6474213 18,24.4827768 18,24.3154578 L18,15.6845422 C18,15.1322574 18.4477153,14.6845422 19,14.6845422 C19.167319,14.6845422 19.3319635,14.7265256 19.4788521,14.8066466 L27.3905248,19.1221044 C27.8753731,19.3865672 28.054031,19.9940038 27.7895682,20.4788521 C27.6976229,20.6474186 27.5590913,20.7859502 27.3905248,20.8778956 Z" id="路径" fill="#FFFFFF"></path>
+                <path d="M3,0 L41,0 C42.6568542,0 44,1.34314575 44,3 L44,6 L0,6 L0,3 C0,1.34314575 1.34314575,0 3,0 Z" id="路径" fill="#285DB3"></path>
+                <rect id="矩形" fill="#DEEFFF" x="39" y="2" width="2" height="2" rx="1"></rect>
+                <rect id="矩形" fill="#DEEFFF" x="36" y="2" width="2" height="2" rx="1"></rect>
+                <rect id="矩形" fill="#DEEFFF" x="33" y="2" width="2" height="2" rx="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="39px" height="38px" viewBox="0 0 39 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>ic_auto</title>
+    <desc>Created with Sketch.</desc>
+    <g id="中文版" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_auto" fill-rule="nonzero">
+            <polygon id="Path" fill="#0072EF" points="19.09 0 20.83 2.91 24 4.5 20.83 6.09 19.09 9 17.36 6.09 14.18 4.5 17.36 2.91"></polygon>
+            <polygon id="Path" fill="#0072EF" points="4.91 0 6.64 2.91 9.82 4.5 6.64 6.09 4.91 9 3.17 6.09 0 4.5 3.17 2.91"></polygon>
+            <polygon id="Path" fill="#0072EF" points="4.91 13 6.64 15.91 9.82 17.5 6.64 19.09 4.91 22 3.17 19.09 0 17.5 3.17 15.91"></polygon>
+            <path d="M18.92,15.09 L16.09,17.92 L15,16.83 L11,12.83 C10.4184674,12.2613801 10.2391972,11.3972266 10.5465528,10.6442052 C10.8539085,9.89118383 11.5866684,9.39928757 12.4,9.39999923 C12.928145,9.39957854 13.4350171,9.60807909 13.81,9.98 L18.92,15.09 Z" id="Path" fill="#C2DEFF"></path>
+            <path d="M37.59,36.59 C37.2148635,36.9655541 36.7058185,37.1765733 36.175,37.1765733 C35.6441815,37.1765733 35.1351365,36.9655541 34.76,36.59 L16.09,17.92 L18.92,15.09 L37.59,33.76 C37.9655541,34.1351365 38.1765733,34.6441815 38.1765733,35.175 C38.1765733,35.7058185 37.9655541,36.2148635 37.59,36.59 Z" id="Path" fill="#0072EF"></path>
+            <rect id="Rectangle" fill="#285DB3" transform="translate(19.206400, 18.199358) rotate(-45.000000) translate(-19.206400, -18.199358) " x="17.2064002" y="15.6643577" width="4" height="5.07"></rect>
+        </g>
+    </g>
+</svg>
